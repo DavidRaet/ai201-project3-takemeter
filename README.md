@@ -266,8 +266,8 @@ takemeter/
 
 ```bash
 # Clone
-git clone https://github.com/[your-username]/takemeter.git
-cd takemeter
+git clone https://github.com/[your-username]/ai201-project3-takemeter.git
+cd ai201-project3-takemeter
 
 # Install dependencies
 pip install -r requirements.txt
