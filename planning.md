@@ -3,7 +3,7 @@
 ## Community Choice
 
 **Community:**
-<!-- Name the specific community (subreddit, Discord server, forum, etc.) -->
+Reddit (r/soccer)
 
 **Why this community fits the task:**
 <!--
@@ -11,6 +11,10 @@ Explain — not just name — why this community is a good fit for discourse qua
 Consider: volume of takes, variance in quality, whether "good" vs "bad" takes have recognizable
 features specific to this community, and whether the discourse is topical enough to have
 consistent context. 2–4 sentences.
+
+The soccer subreddit is a diverse and large dataset for classifying all sorts of comments. Whether the comment is a simple reaction like, what a goal!, or a hot take, This soccer player is washed up 😭✌️, or an analysis like Messi just scored a hattrick against Algeria, we can recognize patterns in a sport that offers an abundant dataset for TakeMeter.  
+
+
 -->
 
 ***
@@ -27,40 +31,41 @@ Define 2–4 labels. Each label must:
 Format per label:
 -->
 
-### Label 1: [NAME]
+### Label 1: Hot Take
 
 **Definition:**
-<!-- Full sentence definition that specifies what qualifies and what does not. -->
+
+A hot take can be defined as a novel claim with the potential to spark debate, but has little to no perceived backing of evidence or fact. This can come in the form of an overall statement about a footballer such as: "This player doesn't have what it takes to be a world-class player," and proceeds to not elaborate on why that person thinks so. More examples can be seen below:
 
 **Examples:**
-1. > <!-- Paste example post text here -->
-2. > <!-- Paste example post text here -->
+1. > "Ronaldo is 40 years old. He is able to win the world cup with Portugal even with his given team and his current condition!"
+2. > "Lamine Yamal will be our next generations GOAT, comparable to Ronaldo and Messi."
 
 ***
 
-### Label 2: [NAME]
+### Label 2: Analysis
 
 **Definition:**
-<!-- Full sentence definition. -->
+An analysis can be defined as a statement that describes a situation, person, and miscellaneous objects from an objective standpoint. This type of statement will often not take any sides, and will be supported from observation, evidence, and fact. 
 
 **Examples:**
-1. > <!-- Paste example post text here -->
-2. > <!-- Paste example post text here -->
+1. > "Messi was able to score a hattrick against Algeria, ending the game with a score of 3-0."
+2. > "Japan was able to tie against The Netherlands with a score of 2-2 as Kamada scores the final goal of the match at the 89th minute." 
 
 ***
 
-### Label 3: [NAME] *(if applicable)*
+### Label 3: Argument
 
 **Definition:**
-<!-- Full sentence definition. -->
+An argument is a claim that has the zealous of a hot take mixed with the rigor of an analysis. Usually a person would propose their hot take and later on through an analysis, back up that hot take. 
 
 **Examples:**
-1. > <!-- Paste example post text here -->
-2. > <!-- Paste example post text here -->
+1. > "Lamine Yamal will be our next generations GOAT, comparable to Ronaldo and Messi because of his trajectory. At 18 years and 7 months, Lamine Yamal has accumulated 100 combined goals and assists for Barcelona and Spain. At the exact same age, Messi had 5 goal contributions total, Ronaldo had 4, and Mbappé, widely considered the best of this current generation before Yamal arrived, was 60 behind that mark. We are watching an unprecedented statistic that has never existed in this age of top-flight football. "
+2. > "Messi is the undisputed GOAT of football because of many factors. He holds La Liga's all-time records for most goals (474), most goals in a single season (50), and most hat-tricks (36). He's an 8-time Ballon d'Or winner, with Ronaldo being second to him with 5. Despite the past counter-argument for his lack of international trophies, Messi dismantled it completely by winning the 2021 Copa América, the Finalissima, and the 2022 FIFA World Cup." 
 
 ***
 
-### Label 4: [NAME] *(if applicable)*
+### Label 4: Reaction
 
 **Definition:**
 <!-- Full sentence definition. -->
