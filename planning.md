@@ -188,10 +188,10 @@ Be specific about what you'll direct the model to do and how you'll verify or ov
 
 1. Label stress-testing: I plan to give the LLM my label definitions and edge case descriptions. Then, ask it to generate 5–10 posts that sit at the boundary between two labels. If it produces posts it can't classify cleanly, I will go back to the drawing board and tighten the definitions. 
 
-2. Annotation assistance: I will use an LLM to pre-label a batch of examples before reviewing them yourself. I will use... and track which examples were pre-labeled (for disclosure in your AI usage section).
+2. Annotation assistance: I will use an LLM, specifically Claude 4.6 Sonnet, to pre-label a batch of examples before reviewing them yourself. Then, I will track which examples were pre-labeled (for disclosure in my AI usage section).
 
-3. Failure analysis: I plan to give a list of wrong predictions to an AI tool and ask it to identify patterns before asking to write up an evaluation. To verify the patterns I will .
+3. Failure analysis: I plan to give a list of wrong predictions to an LLM and ask it to identify patterns before asking to write up an evaluation. To verify the patterns I will give the LLM a list of failed predictions and ask it to identify about 3 recurring patterns causing them. Then, I step in to do a pattern verification that involves both a quantitative and qualitative step. On the quantitative step, extract the patterns that the LLM found and compare them in the failed set vs the correct set to individually see if these patterns hold. for the qualitative check, sample 10-15 instances and check if the LLM's explanation for the failed sets is accurate and the cause is the respective pattern. Lastly, on my eval report add these verified patterns and come up with mitigation strategies for the ones that the LLM may not have cleanly analyzed.
 
 **Oversight / override plan:**
 <!-- How will you catch and correct AI errors, especially during annotation assistance? -->
-To catch and correct AI errors, I wll thoroughly review AI output and carefully prompt with detailed and precise instructions using a Role-Task-Format model to handle delicate tasks like annotation assistance.
+To catch and correct AI errors, I wll thoroughly review the LLM's output, carefully prompt with detailed and precise instructions using a Role-Task-Format model to handle delicate tasks like annotation assistance to lessen the risk of unfavorable outputs, and edit accordingly.
