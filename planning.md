@@ -1,4 +1,4 @@
-# TakeMeter — planning.md
+# TakeMeter - planning.md
 
 ## Community Choice
 
@@ -6,51 +6,38 @@
 Reddit (r/soccer)
 
 **Why this community fits the task:**
-<!--
-Explain — not just name — why this community is a good fit for discourse quality classification.
-Consider: volume of takes, variance in quality, whether "good" vs "bad" takes have recognizable
-features specific to this community, and whether the discourse is topical enough to have
-consistent context. 2–4 sentences.
 
 The soccer subreddit is a diverse and large dataset for classifying all sorts of comments. Whether the comment is a simple reaction like, what a goal!, or a hot take, This soccer player is washed up 😭✌️, or an analysis like Messi just scored a hattrick against Algeria, we can recognize patterns in a sport that offers an abundant dataset for TakeMeter.  
-
-
--->
 
 ***
 
 ## Label Taxonomy
 
-<!--
-Define 2–4 labels. Each label must:
-- Be defined in a complete sentence (not a one-word description or vague adjective)
-- Have clear boundaries from the other labels
-- Include 2 example posts
-- Address the hardest anticipated edge case between at least one pair of labels
-
-Format per label:
--->
-
 ### Label 1: Hot Take
 
 **Definition:**
 
-A hot take can be defined as a novel claim with the potential to spark debate, but has little to no perceived backing of evidence or fact. This can come in the form of an overall statement about a footballer such as: "This player doesn't have what it takes to be a world-class player," and proceeds to not elaborate on why that person thinks so. More examples can be seen below:
+A hot take can be defined as a novel claim with the potential to spark debate, but has little to no perceived backing of evidence, data, or logical reasoning. This can come in the form of an overall statement about a footballer such as: "This player doesn't have what it takes to be a world-class player," and proceeds to not elaborate on why that person thinks so. More examples can be seen below:
+
+
+**Key Indicator:** The post asserts an opinion as a fact but provides no "why" or supporting stats.
 
 **Examples:**
-1. > "Ronaldo is 40 years old. He is able to win the world cup with Portugal even with his given team and his current condition!"
-2. > "Lamine Yamal will be our next generations GOAT, comparable to Ronaldo and Messi."
+1. > "Ronaldo is too old to win the World Cup with Portugal." (Opinion, no stats on his current form).
+2. > "Lamine Yamal will be our next generations GOAT, comparable to Ronaldo and Messi." (Prediction without trajectory data).
 
 ***
 
 ### Label 2: Analysis
 
 **Definition:**
-An analysis can be defined as a statement that describes a situation, person, and miscellaneous objects from an objective standpoint. This type of statement will often not take any sides, and will be supported from observation, evidence, and fact. 
+An analysis can be defined as an objective description of events, statistics, or situations. This type of statement will often not take any sides, and will be supported from observation, evidence, and fact. 
+
+**Key Indicator:** The post could be verified as true or false by a match report or database. It contains no persuasive language.
 
 **Examples:**
 1. > "Messi was able to score a hattrick against Algeria, ending the game with a score of 3-0."
-2. > "Japan was able to tie against The Netherlands with a score of 2-2 as Kamada scores the final goal of the match at the 89th minute." 
+2. > "Japan was able to tie against The Netherlands with a score of 2-2 as Kamada scores the final goal of the match in the 89th minute." 
 
 ***
 
@@ -68,65 +55,97 @@ An argument is a claim that has the zealous of a hot take mixed with the rigor o
 ### Label 4: Reaction
 
 **Definition:**
-<!-- Full sentence definition. -->
+A reaction is a comment that serves as a subjective statement coming from an individual who has witnessed an event. Reactions will typically come in the form of emojis, opinions on what a person views (though not necessarily a hot take or an argument), or a mix of both. 
 
 **Examples:**
-1. > <!-- Paste example post text here -->
-2. > <!-- Paste example post text here -->
+1. > "Messi just scored an insane banger of a goal."
+2. > "What did I just witness? 😭"
 
 ***
 
 ## Hardest Anticipated Edge Case
 
-**Label pair at issue:** <!-- e.g., Label A vs Label B -->
+**Label pair at issue:** When a comment seems to have a mix of different types of labels. For example, a comment like "Messi just scored an insane banger of a goal. This is why he's the GOAT," could have a mix of a reaction and a hot take.  
 
 **Why this boundary is hard:**
-<!--
-Describe the type of post that genuinely sits between these two labels.
-What features make it ambiguous? What rule or tiebreaker will you use to decide?
-Be specific — name the characteristic, not just "it's hard to tell."
--->
+The reason why this boundary is hard to classify is because a comments intention is difficult to read and thus can't be placed in one specific label.
 
 **Resolution rule:**
-<!-- The decision rule you will apply to cases that fall at this boundary. -->
+To counteract this anticipated edge case, we will use a Dominant Intent Heuristic to concretely classify a comment with an amibigious label. This approach will look at the comments final conclusion, which will determine the label. When a comment appears to have a mixed signal like the initial example mentioned, "Messi just scored an insane banger of a goal. This is why he's the GOAT," this comment will be labeled as a hot take as the comment's last sentence was driven by a sentiment that can be regelated in that category.
+
+However, because we are classifying comments with dual intent into one category using the Dominant Intent Heuristic, some tradeoffs with this approach include:
+
+- Loss of Nuance: Comments with a balanced, dual-intent are forced into one category, which strips the wholistic message of the user.
+- Ambiguity in Sarcasm: Sarcasm has the possibility of flipping the dominant intent. (e.g "Messi scored a hattrick? Yeah right... He's the GOAT.")
+- Simplified Metrics: The accuracy could be shown nicely since the model is learning the most common patterns, but it's also possible that the model could have confused two labels at some point. 
 
 ***
 
 ## Data Collection Plan
 
 **Source:**
-<!-- Where the data is coming from (e.g., Reddit API via PRAW, manual scraping, existing dataset). -->
+Implementation will use PRAW for data ingestion and will target the soccer subreddit (r/soccer)
 
 **Collection method:**
-<!-- How you will pull the data — API, scraper, manual copy-paste, etc. Include any filters applied
-(e.g., posts with >10 upvotes, posts from 2023–2024 only). -->
+We collect the data using a variety of filters:
 
-**Target volume:** <!-- e.g., 250 posts minimum -->
+- Time Range: Filter by posts in the last 5 years to ensure modern discourse content. 
+- Engagement Threshold: Filter posts with a score of >= 5 to mitigate chances of a discourse being spam or low-effort noise. 
+- Content Type: Include "self-posts" (with text content) and exclude posts that are less than 20 words in length to ensure sufficient context for classification. (including title and body) 
+- Exclusions: Filter out posts from banned users or posts marked as "NSFW" as we are targetting general quality posts. 
+- Rate Limiting: Use PRAW's built-in rate limiting. 
+
+**Target volume:** 2500 posts baseline but will aim towards 5000 for the sweet spot.
 
 **Annotation process:**
 <!--
 How will you label each post? Who labels (just you, or with help from an LLM)?
 If an LLM assists with pre-labeling, describe the workflow: prompt used, how you verified/corrected outputs.
 -->
+Posts will be labeled using a Hybrid LLM-Assisted Pre-Labeling with Human Verification approach. 
+
+**Workflow:**
+1.  **Rubric Creation:** We will define specific criteria for discourse quality with explicit examples.
+2.  **Pre-Labeling:** An LLM will process the dataset using a few-shot prompt containing:
+    *   The discourse quality rubric.
+    *   5 examples of posts with correct labels and reasoning.
+    *   The target post text.
+    *   *Output format:* JSON with `label`, `reasoning`, and `confidence_score`.
+3.  **Human-in-the-Loop Verification:**
+    *   **Low Confidence (<0.85):** Automatically flagged for manual review.
+    *   **High Confidence:** A random 15% sample will be manually audited.
+    *   Any systematic errors found in the audit will trigger a prompt refinement cycle.
+4.  **Final Dataset:** The corrected dataset will be used to fine-tune the `TakeMeter` classifier.
+
+
 
 **Label distribution goal:**
 <!--
 How will you prevent any single label from exceeding 70% of the dataset?
 e.g., collecting in batches per label, enforcing a cap, oversampling underrepresented labels.
 -->
+To prevent any single label from exceeding a high percentage of the dataset, we will use a two-stage filtering approach. 
+
+1. Pre-Labeling Heuristic Filter:
+
+   - Before LLM processing, we will filter out obvious noise (e.g., posts with <15 words, pure image posts, or posts with >90% stop-words). This reduces the "Off-Topic" volume at the source, saving API costs and time.
+
+2. Post-Labeling Undersampling:
+
+   - After LLM labeling, if a class still exceeds the 70% threshold, we will perform Random Undersampling on that specific class. The high-level logic looks like: 
+      target_count = total_posts * 0.65. 
+      If class_count > target_count, randomly drop the excess. 
+      For safety, We will maintain a backup of the dropped data in case we need to retrain with a larger dataset later.
 
 ***
 
 ## Evaluation Metrics
 
-**Chosen metrics:** <!-- e.g., per-class F1, macro-averaged F1, precision/recall per label, confusion matrix -->
+**Chosen metrics:** Macro-Averaged F1-Score as the primary headline metric, supported by a Confusion Matrix and Per-Class Recall.
 
 **Reasoning:**
-<!--
-Why are these metrics appropriate for this task and label set?
-If your labels are imbalanced, why does macro-F1 matter more than accuracy?
-If the cost of false negatives differs by class, say so. 2–4 sentences.
--->
+
+Social media discourse datasets like r/soccer are typically highly imbalanced, with "low effort" or "spam" content vastly outnumbering "high quality" discourse; Macro-F1 is essential here because it prevents the model from achieving a deceptively high score by simply predicting the majority class, ensuring the model actually learns to identify rare, valuable contributions. Additionally, in discourse evaluation, the cost of a False Negative (missing a high-quality discussion) is often higher than a False Positive (finding a low-quality discussion), making Per-Class Recall critical for ensuring the system captures the nuance it was designed to find. The Confusion Matrix is included to visually verify if the model is confusing semantically similar but distinct categories, such as "Hot Takes" vs. "Arguments," which simple aggregate scores would miss.
 
 ***
 
@@ -142,8 +161,12 @@ Also note: how does this compare to the baseline? What would "good enough over b
 
 **Threshold:**
 
+The fine-tuned model should have a macro-averaged F1 of greater than or equal to 0.70 on a held-out test set, with no indiviudal class F1 dropping below a 0.55. 
+
+
 **Rationale:**
-<!-- Why is this threshold meaningful for this specific classification task? -->
+
+Since, Social media discourse datasets are notoriously imbalanced and noisy, a Macro-F1 ≥ 0.70 aligns with competitive benchmarks for fine-tuned 7B–8B LLMs on similar social media sentiment tasks, indicating the model has moved beyond random guessing and majority-class bias. However, because the primary goal of TakeMeter is to surface valuable discussions, an additional Per-Class Recall constraint of greater than or equal to 0.75 is critical to ensure we do not miss high-quality content (False Negatives), even if it slightly penalizes precision. The 0.55 floor for individual classes prevents the model from completely failing on minority categories (e.g., "Reactions" or "Hot Takes"), which would render the tool useless for nuanced moderation.
 
 ***
 
@@ -157,10 +180,12 @@ Be specific about what you'll direct the model to do and how you'll verify or ov
 
 **Intended use(s):**
 
-1. <!-- e.g., "Use an LLM to stress-test label definitions by generating adversarial examples that
-   sit at the boundary between Label A and Label B, then revise definitions based on what breaks." -->
+1. Label stress-testing: I plan to give the LLM my label definitions and edge case descriptions. Then, ask it to generate 5–10 posts that sit at the boundary between two labels. If it produces posts it can't classify cleanly, I will go back to the drawing board and tighten the definitions. 
 
-2. <!-- optional second use -->
+2. Annotation assistance: I will use an LLM to pre-label a batch of examples before reviewing them yourself. I will use... and track which examples were pre-labeled (for disclosure in your AI usage section).
+
+3. Failure analysis: I plan to give a list of wrong predictions to an AI tool and ask it to identify patterns before asking to write up an evaluation. To verify the patterns I will .
 
 **Oversight / override plan:**
 <!-- How will you catch and correct AI errors, especially during annotation assistance? -->
+To catch and correct AI errors, I wll thoroughly review AI output and carefully prompt with detailed and precise instructions using a Role-Task-Format model to handle delicate tasks like annotation assistance.
