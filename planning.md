@@ -7,7 +7,7 @@ Reddit (r/soccer)
 
 **Why this community fits the task:**
 
-The soccer subreddit is a diverse and large dataset for classifying all sorts of comments. Whether the comment is a simple reaction like, what a goal!, or a hot take, This soccer player is washed up 😭✌️, or an analysis like Messi just scored a hattrick against Algeria, we can recognize patterns in a sport that offers an abundant dataset for TakeMeter.  
+The soccer subreddit is a diverse and large dataset for classifying all sorts of comments. r/soccer is a link-heavy subreddit where comment threads, particularly match threads and debate posts, provide the richest source of labeled discourse (Hot Takes, Reactions, Arguments, Analyses), making comments the primary collection unit.
 
 ***
 
@@ -96,8 +96,8 @@ Implementation will use PRAW for data ingestion and will target the soccer subre
 We collect the data using a variety of filters:
 
 - Time Range: Filter by posts in the last 5 years to ensure modern discourse content. 
-- Engagement Threshold: Filter posts with a score of >= 5 to mitigate chances of a discourse being spam or low-effort noise. 
-- Content Type: Include "self-posts" (with text content) and exclude posts that are less than 20 words in length to ensure sufficient context for classification. (including title and body) 
+- Engagement Threshold: Filter comments with a score of >= 5 to mitigate chances of a discourse being spam or low-effort noise. 
+- Content Type: Include comments from high-engagement threads (match threads, discussion posts, hot takes threads) and exclude posts that are less than 20 words in length to ensure sufficient context for classification. (including title and body) 
 - Exclusions: Filter out posts from banned users or posts marked as "NSFW" as we are targetting general quality posts. 
 - Rate Limiting: Use PRAW's built-in rate limiting. 
 
@@ -115,7 +115,7 @@ Posts will be labeled using a Hybrid LLM-Assisted Pre-Labeling with Human Verifi
 2.  **Pre-Labeling:** An LLM will process the dataset using a few-shot prompt containing:
     *   The discourse quality rubric.
     *   5 examples of posts with correct labels and reasoning.
-    *   The target post text.
+    *   The target comment text.
     *   *Output format:* JSON with `label`, `reasoning`, and `confidence_score`.
 3.  **Human-in-the-Loop Verification:**
     *   **Low Confidence (<0.85):** Automatically flagged for manual review.
