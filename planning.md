@@ -101,7 +101,7 @@ We collect the data using a variety of filters:
 - Exclusions: Filter out posts from banned users or posts marked as "NSFW" as we are targetting general quality posts. 
 - Rate Limiting: Use PRAW's built-in rate limiting. 
 
-**Target volume:** 2500 posts baseline but will aim towards 5000 for the sweet spot.
+**Target volume:** 2500 posts.
 
 **Annotation process:**
 <!--
@@ -116,7 +116,7 @@ Posts will be labeled using a Hybrid LLM-Assisted Pre-Labeling with Human Verifi
     *   The discourse quality rubric.
     *   5 examples of posts with correct labels and reasoning.
     *   The target comment text.
-    *   *Output format:* JSON with `label`, `reasoning`, and `confidence_score`.
+    *   *Output format:* JSON with `text`, `label`, `reasoning`, and `confidence_score`.
 3.  **Human-in-the-Loop Verification:**
     *   **Low Confidence (<0.85):** Automatically flagged for manual review.
     *   **High Confidence:** A random 15% sample will be manually audited.
