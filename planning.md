@@ -44,10 +44,12 @@ An analysis can be defined as an objective description of events, statistics, or
 ### Label 3: Argument
 
 **Definition:**
-An argument is a claim that has the zealous of a hot take mixed with the rigor of an analysis. Usually a person would propose their hot take and later on through an analysis, back up that hot take. 
+An argument is a claim that has the subjectivity of a hot take that is supported with concrete evidence, data, or logical reasoning like an analysis. 
+
+**Key Indicator:** The post follows the structure: **Claim + Evidence + Conclusion**. The evidence must be specific (e.g stats, dates, historical context).
 
 **Examples:**
-1. > "Lamine Yamal will be our next generations GOAT, comparable to Ronaldo and Messi because of his trajectory. At 18 years and 7 months, Lamine Yamal has accumulated 100 combined goals and assists for Barcelona and Spain. At the exact same age, Messi had 5 goal contributions total, Ronaldo had 4, and Mbappé, widely considered the best of this current generation before Yamal arrived, was 60 behind that mark. We are watching an unprecedented statistic that has never existed in this age of top-flight football. "
+1. > "Lamine Yamal will be our next generations GOAT, comparable to Ronaldo and Messi because of his trajectory. At 18 years and 7 months, Lamine Yamal has accumulated 100 combined goals and assists for Barcelona and Spain. At the exact same age, Messi had 5 goal contributions total, Ronaldo had 4, and Mbappé, widely considered the best of this current generation before Yamal arrived, was 60 behind that mark. We are watching an unprecedented statistic that has never existed in this age of top-flight football."
 2. > "Messi is the undisputed GOAT of football because of many factors. He holds La Liga's all-time records for most goals (474), most goals in a single season (50), and most hat-tricks (36). He's an 8-time Ballon d'Or winner, with Ronaldo being second to him with 5. Despite the past counter-argument for his lack of international trophies, Messi dismantled it completely by winning the 2021 Copa América, the Finalissima, and the 2022 FIFA World Cup." 
 
 ***
@@ -55,12 +57,16 @@ An argument is a claim that has the zealous of a hot take mixed with the rigor o
 ### Label 4: Reaction
 
 **Definition:**
-A reaction is a comment that serves as a subjective statement coming from an individual who has witnessed an event. Reactions will typically come in the form of emojis, opinions on what a person views (though not necessarily a hot take or an argument), or a mix of both. 
+
+
+A reaction is a subjective expression of emotion, shock, or personal feeling regarding an event. It does not make a universal claim or argument.
+
+**Key Indicator:** The post describes *how the user feels* rather than *what is true*. Often includes emojis, exclamations, or rhetorical questions.
 
 **Examples:**
 1. > "Messi just scored an insane banger of a goal."
 2. > "What did I just witness? 😭"
-
+3. > "I can't believe the ref missed that call."
 ***
 
 ## Hardest Anticipated Edge Case
