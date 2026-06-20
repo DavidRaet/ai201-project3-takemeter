@@ -58,24 +58,20 @@ Posts were labeled using a **Hybrid LLM-Assisted Pre-Labeling with Human Verific
 **Label distribution:**
 
 Train: 189 examples
+
 Validation: 40 examples
+
 Test: 41 examples
 
-Train label distribution:
-label
-hot_take    74
-argument    46
-reaction    41
-analysis    28
-Name: count, dtype: int64
+| Label | Train | Validation | Test | Total |
+| :--- | :---: | :---: | :---: | :---: |
+| hot_take | 74 | — | 16 | 90 |
+| argument | 46 | — | 10 | 56 |
+| reaction | 41 | — | 9 | 50 |
+| analysis | 28 | — | 6 | 34 |
+| **Total** | **189** | **40** | **41** | **270** |
 
-Test label distribution:
-label
-hot_take    16
-argument    10
-reaction     9
-analysis     6
-Name: count, dtype: int64
+**The quantity of the validation distribution was not explicitly shown so the sections for the labels are blank** 
 
 ### Difficult Examples
 
@@ -190,7 +186,7 @@ reaction
 
 |Model| Accuracy |
 |-----|----------|
-|Zero-shot baseline (Groq) |0.439|
+|few-shot baseline (Groq) |0.439|
 |Fine-tuned DistilBERT |0.390|
 
 
@@ -199,7 +195,6 @@ Fine-tuning regression: 0.049
 
 
 ***
-
 
 
 ### Confusion Matrix
@@ -242,12 +237,6 @@ Predicted: hot_take  (confidence: 0.37)
 ***
 
 ### Failure Pattern Reflection
-
-<!-- Identify specific failure patterns:
-- A label pair the model consistently confuses and WHY
-- A type of post that systematically breaks the model
-- A distributional issue in training vs. test data
-Connect the confusion matrix and error examples to a root cause in your data or label design. -->
 
 **Model Collapse to Hot Take:** The fine-tuned model exhibits a pathological convergence toward a single label—systematically predicting `hot_take` across nearly all test instances while abandoning other categories entirely. This collapse stems from two intertwined failures: the training data's severe imbalance (hot_takes comprise ~39% of examples) and the model's consequent learning of a deceptive shortcut—predicting the plurality class yields approximately 50% accuracy, which the optimizer found easier than learning genuine linguistic distinctions.
 
@@ -298,15 +287,12 @@ Mentioned in the AI Tool Usage section, the initial plan was to fetch the r/socc
 
 ```
 takemeter/
-├── data/
-│   ├── raw/             # Raw scraped posts
-│   └── annotated/       # Labeled dataset (CSV or JSONL)
-├── notebooks/
-│   └── finetune.ipynb
-├── results/
-│   └── eval_report.json
+├── confusion_matrix.png 
+├── evaluation_results.json
 ├── planning.md
 └── README.md
+├── takemeter-balanced-original.csv
+
 ```
 
 ***
@@ -317,9 +303,4 @@ takemeter/
 # Clone
 git clone https://github.com/[your-username]/ai201-project3-takemeter.git
 cd ai201-project3-takemeter
-
-# Install dependencies
-pip install -r requirements.txt
 ```
-
-<!-- Add any other setup steps specific to your training platform -->
