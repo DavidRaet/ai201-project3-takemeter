@@ -10,6 +10,11 @@ TakeMeter is a fine-tuned text classifier designed to categorize comments from R
 
 ***
 
+
+## Demo
+[![Video Preview](https://s4.ezgif.com/tmp/ezgif-4bb24ca604fcba1d.gif)](https://videotourl.com/videos/1781992876326-b1808acb-0b2a-4a45-b1dd-fe4543886ae6.mp4)
+
+
 ## Label Taxonomy
 
 | Label | Definition | Examples |
