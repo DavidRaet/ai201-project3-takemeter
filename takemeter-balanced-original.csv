@@ -1,0 +1,656 @@
+text,label,reasoning,initial_confidence_score
+"The thread about it on here is so strange, everyone I've talked to about it irl (Mackems included so not just Newcastle fans) agrees that it's a red but in there it's a textbook yellow?",reaction,"Finds a thread strange, a subjective feeling making no claims or argument, reaction.",0.6
+"United have signed so many unnecessary attacking midfielders when other parts of the squad are crying out for cover in the last 10-12 years. Kagawa, Mata, Fellaini, VDB, Mount etc. They all have their values but none were what was actually needed at the time.",analysis,"Factual reporting with specific statistics or verifiable events, no persuasive language.",0.9
+"In a weird quirk, Klopp has lost 6 games at home when Tierney is the 4th official. That's when he's most dangerous!",analysis,"Factual reporting with specific statistics or verifiable events, no persuasive language.",0.9
+You're starting with 2 attackers. If Jackson's only going to score 10 goals how are you even supposed to win games?,analysis,"Makes a question based on 2 observed, verifiable facts, Analysis.",0.83
+"All great shouts, then include the 2018 2nd leg playoff tie between Seattle and Portland. Which involved professional players literally having to explain the rules of the format in real time to their teammates",analysis,"Starts with a sentiment on the ""shouts"" then a verfiable note on a playoff and a observation on the game, Analysis.",0.83
+"All great shouts, then include the 2018 2nd leg playoff tie between Seattle and Portland. Which involved professional players literally having to explain the rules of the format in real time to their teammates",analysis,Contains verifiable facts or statistics with minimal opinionated language.,0.83
+"Actually, they were not. There was an athletic track between the pitch and the stands (which was no longer used but the space was there) and yet it was still terrifying. The new stadium stands are even closer yet it somehow isn't as terrifying. 
+ 
+ [https://upload.wikimedia.org/wikipedia/commons/3/34/Galatasaray-Fenerbah%C3%A7e\_12.04.2009.jpg](https://upload.wikimedia.org/wikipedia/commons/3/34/Galatasaray-Fenerbah%C3%A7e_12.04.2009.jpg)",analysis,Contains verifiable facts or statistics with minimal opinionated language.,0.83
+A better version of Lewy would have scored 20 easily.,analysis,Describes an event or action factually without persuasive or opinionated language.,0.8
+That's like saying a team that won the 7th Division have enjoyed far more success than Spurs,analysis,Describes an event or action factually without persuasive or opinionated language.,0.8
+It would be embarassing if you guys couldnâ€™t beat Qarabag,analysis,Describes an event or action factually without persuasive or opinionated language.,0.8
+"Every since Mudryk scored that goal, Raya looks terrified to come off his line even a littlr",analysis,Describes an event or action factually without persuasive or opinionated language.,0.8
+Spain keeps getting better as the game goes on. And they already started of really well,analysis,Describes an event or action factually without persuasive or opinionated language.,0.8
+"It literally would have been at least 80 percent Mess. He was that much above everybody else and he played with prime Xavi, Iniesta, Neymar, Suarez,...",analysis,Describes an event or action factually without persuasive or opinionated language.,0.8
+Oh shit. Hazard and Messi. Played for two teams i hate but imagine together.. that would be beautiful.,analysis,Describes an event or action factually without persuasive or opinionated language.,0.8
+That's just this window. Nearly a billion in the last three windows,analysis,States a verifiable spending figure ('nearly a billion in the last three windows'). Analysis.,0.75
+At least with the PL it roughly aligns with the 38-game schedule (not exactly) so single season records make sense to be demarcated before and after the PL.,analysis,"Makes a factual observation about the PL's 38-game schedule alignment, verifiable. Analysis.",0.75
+Stanway's only noteworthy contributions this game have been 2 fouls,analysis,"Observational factual claim, 'Stanway's only noteworthy contributions have been 2 fouls', verifiable in-game. Analysis.",0.75
+That was maybe an eighteen inch gap to pass the keeper and she hit it. Excellent shot.,analysis,"Verifiable descriptive observation, 'eighteen inch gap' and shot quality are observable. Analysis.",0.75
+"I'm Welsh, so naturally I want England to lose but classify myself as neutral. I saw the last 30 mins of official time and the ET.
+ 
+ Absolute shitshow, I have no idea what the earlier part of the game was like but if you only watch 60m onwards, you'd assume the ref was untrained, and someone turned the pitch into a slip'n'slide.
+ 
+ Regardless of who won and lost, that second half was a poor advertisement for Womens football, finishing off the tournament. England seemed lost, Spain seemed unable to jog more than 15 feet at a time without falling over, and the ref let shithousery take over in abundance.",analysis,"Though the user mostly expresses a appalled reaction on a performance, they make an analysis based on what they saw , analysis.",0.72
+"Football is most played. People play football with a crushed up plastic bottle. Tennis balls. Table tennis balls. 
+ 
+ The cricket national team and the players are more popular than any one football team (national or otherwise) and their players. But the *sport ""itself is not as popular as football.",hot_take,"Asserts that football is the most played sport but lacks evidence and fact to support the claim, hot_take.",0.72
+"Marketing takes long. EPL started their thing the second they broke away. They are simply reaping the benefits now.
+ 
+ Other leagues can't pretend to do the same without that 20 year headstart.",analysis,"Makes an analysis based on the soccer leagues market patterns and other teams, analysis.",0.72
+"Yeah weve lost some attacking threat with gundo to kova , but kovacic is doing great at controlling the midfield and helping set things up. He does have some decent through balls as well tbf",analysis,"Analyzes the abilities of hte players without strong opinions or claims, analysis.",0.72
+He was pretty close to getting itâ€¦ like a quarter second late,analysis,"Observational description of a near-miss play, neutral and observational. Analysis.",0.7
+"Is it an accent or just the correct way to say his name?
+ 
+ Nobody was pronouncing James Rodriguez in the anglophone way",analysis,"Factual question with a factual observation, 'Nobody was pronouncing James Rodriguez in the anglophone way' is verifiable. Analysis.",0.7
+"What are the stages for tournaments if you don't mind me asking? 
+ 
+ 
+ As in? 
+ 
+ 
+ Champions league / World Cup?
+ 
+ &amp;#x200B;
+ 
+ Leagues cup? 
+ 
+ 
+ Nations League?",analysis,"Genuine question asking for factual information about tournament stages, no opinion. Since this is a person inquiring about something and wanting to understand a fact, Analysis.",0.65
+"Hey guys, anyone know what was written on the Spanish goal scorer's shirt? Can't see it in the replays either",analysis,"Genuine question, seeking information, no opinion. Analysis.",0.65
+Lauren James has absolutely changed this game! She is so calm on the ball.,analysis,Neutral or ambiguous comment with no strong signal for other categories.,0.6
+That Devil of Inzaghi has pulled a commander Erwin stunt and is now going for the kill.,analysis,Neutral or ambiguous comment with no strong signal for other categories.,0.6
+Performance rankings Earps MotM but then the entire Spanish XI ahead of the next England player.,analysis,Hard to tell because this guys English doesn't make sense but this seems to be an analysis on some performance ranking so this is likely an analysis.,0.6
+That was a new thing at this tournament - refs explaining VAR decisions to the audience via the speaker system.,analysis,"User makes an observation that can be verified, Analysis.",0.6
+"Gorter heeft werkelijk waar niks te doen gehad de hele wedstrijd, behalve de bal 2x uit het net vissen en een paar voorzetten gevangen. Aan de doelpunten kon hij niks doen en verder heeft hij geen reddingen hoeven te verrichten.
+ 
+ Qua spelverdeling wel okÃ©, gewoon simpel gehouden. Deze wedstrijd was niet geschikt om een oordeel te vellen.",analysis,This User seems to be analyzing Gorters performance in the game rather than making an opinion. Analysis.,0.6
+"""SchwÃ¤cherer FuÃŸ"" zum GlÃ¼ck, den hÃ¤tte doch Yatta mit seinem guten FuÃŸ vergeben",analysis,Neutral or ambiguous comment with no strong signal for other categories.,0.6
+Calender honestly had a pretty crazy tournament. Was solid in all games.,analysis,Neutral or ambiguous comment with no strong signal for other categories.,0.6
+"What a silly tackle, come on Rasmus you’re better than that",reaction,"Expresses how silly a tackle was. User isn't claiming anything or making an analysis, reaction.",0.6
+"Considering Haaland's exalted standards, that's a pretty poor finish.
+ 
+ Wonderful play from Foden again.",reaction,"Comments on two players with strong language, but isn't making any clear claims or analysis, reaction.",0.6
+"Why is Gordon starting over Barnes anyways, he’s worse than Barnes in everything par running around.",hot_take,"Claims a player is worse than another without any logic or evidence to support, hot_take",0.6
+She got the ball first… how is that a foul,analysis,"Makes a genuine question after an observation, analysis.",0.6
+Ref gave Newcastle a lifeline allowing Gordon to keep playing,hot_take,"claims a refs were involved in a players ability to play without any fact or evidence, hot_take.",0.6
+If Alexis Mac got a red earlier that Gordon tackle is at least a yellow.,analysis,Neutral or ambiguous comment with no strong signal for other categories.,0.6
+"These teams are so much better than the Matilda’s 😅
+ 
+ We were so lucky to make the semis",analysis,Neutral or ambiguous comment with no strong signal for other categories.,0.6
+"Don’t blame bronze for that goal, she tried to make something happen and our midfielders hid and vanished, and then they didn’t even cover her, although Spain did exploit that space moving the ball really quickly to be fair - tough to take",analysis,Neutral or ambiguous comment with no strong signal for other categories.,0.6
+"Jackson's handball? That still had his arms on his chest.
+ 
+ This one is just flailing out",analysis,Neutral or ambiguous comment with no strong signal for other categories.,0.6
+"And this is post-peak Kane as well. 15-18 gunman Kane who was more mobile, aggressive, and had a half step better pace would be doing even better in this team imo.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"yup. and 5 minutes of research will tell you that trans/nb people have always been part of history. first nations have always had two spirit people, thereâ€™s roman emperor wanted to be called a lady instead of lord, the thailand have had kathoeys for 700 years and thereâ€™s so many other examples.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+England had zero midfield presence. Donâ€™t think I remember 1 minute of play where we controlled the middle third. Deserved to lose through and through.,argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Naturally there's a slight risk of saying this backfiring on me, but still having to bring on Anthony Martial when they need goals in 2023 has to be a terrifying prospect for Man Utd fans.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"It's not like Potter could get United's players to start playing good football lol. Genuinely think pep and Klopp wouldn't be able to, they'd need 6-7 new starters.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"If this wasn't just two players talking shit on the pitch, I would say Rodrygo and Messi were both in the wrong. Rodrygo should not have called the Argentines cagons and Messi - who is the captain, world champion, generally well-respected if not revered by most players, and almost 15 years older - should have brushed it off when he did.
+ 
+ BUT shit happens on the pitch, and I think we understand that as long as it's on the pitch and during the 90 minutes of the game all opposing players are sons of whores.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Man City fans were by far the most critical over VAR for a good part of a year back in 2019.
+ 
+ Liverpool and Arsenal fans are loudest right now because they are on the end of shite VAR decisions recently *and* because they happen to be two of the biggest clubs in the world. If Wolves were a top club, theyâ€™d be the loudest right now.
+ 
+ If you donâ€™t think that there is an universal frustration with VAR across all clubs right now, I donâ€™t know what to tell you. Youâ€™re living in a bubble.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Barcelona finished 3rd 18 points behind Real Madrid and Villareal. He got rid of their best players (mainly Deco and Ronaldinho) and brought players from the second team. He did a sextuple in his first year as a first-team manager.
+ 
+ He inherited Bayern from Jupp Heynckes.
+ 
+ Watch City play during the last year under Pellegrini.
+ 
+ If you want to hate on the man, at least get some shit right lol",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"If the match was 45 minutes long, Spain would be deserving winners. Quite one sided with England's midfield being outclassed to the point of appearing nonexistent.
+ 
+ England may still claw their way back with a well placed long pass, even if they continue to look second best in possession. Should be an interesting second half in any case.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"It's not like Potter could get United's players to start playing good football lol. Genuinely think pep and Klopp wouldn't be able to, they'd need 6-7 new starters.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"The 4-4-2 you used to line up with when you didn't really have strikers with Foden and Jesus up front were probably my favourite times to watch City, just incredibly fluid football with an almost strikerless setup which left defenders in loads of trouble.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"As much as Forest are shitting the bed with their chances, I would be concerned with the fact they're getting those chances if I were Eddie Howe.
+ 
+ This should be 1-1.
+ 
+ EDIT: There it is.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Neither Israel, USA, or France are waging the largest land war in Europe since 1945 like Russia is. I think it's quite a normal reaction for Europeans to dislike Russia at the moment.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"It's because of the nature of racism in Latin America. They don't have a one drop rule unlike in Anglo-Celtic nations, so anyone who is 65%+ European in ancestry is considered to be a European Latino. 
+ 
+ So you get folks in Argentina and Uruguay, who may be 75-92% European in ancestry, who think they are the sUpErIoR rAcE, and they look down on all other Latinos. Meanwhile if they showed their faces in West Virginia, they'd get bullied for being not 100% European in ancestry.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Hey! Today a first round of TCWC took place, which is being contested between best contestants of Trivia Trophy Tour series of mine, that concluded before Christmas. They had time until midnight, but everyone answered already, so why not posting now! If you're not in it, you can still answer the questions here.
+ 
+ **Trivia Cup Winners Cup - Matchday 1**
+ 
+ **1.** I played with David Beckham, Mason Mount, Kingsley Coman, Ronaldinho, Christopher Nkunku, Andrea Pirlo and Marcelo. Who am I?
+ 
+ **2.** What is the second most recent club (after Real Madrid) to both have a season with CL won and national league won AND a season with CL won and national league lost.
+ 
+ Hint: Real Madrid won CL in 2022 while winning the league and in 2018 while losing the league. So, if PSG won the CL in 2023 while winning the league and in 2017 while losing the league, they would be the answer, they'd be the 2nd most recent.
+ 
+ **3.** Sort these Premier League events chronologically:
+ 
+ A - Eric Cantona kicks a Crystal Palace fan in the chest; B - Alex Ferguson kicks a cleat in the dressing room, that hits one of his players in the head; C - Alan Shearer rejects both Manchester United and Real Madrid and signs for Newcastle United instead; D - Thierry Henry makes his Premier League debut; E - Premier League is reduced from 22 teams to 20.
+ 
+ **4.** What was the only year when all these matchups happenned? Friendlies, youth, and women games excluded.
+ 
+ FC Barcelona vs Arsenal FC, Argentina vs Mexico, Atletico Madrid vs Gimnastic Tarragona, Sevilla FC vs Schalke 04.
+ 
+ **5.** Juventus, Milan and Inter are unanimously considered the big 3 of Italian football. When was the last time they all finished in top 3 of Serie A?
+ 
+ As for the competitors, here are the results:
+ 
+ Group A
+ 
+ a-Farewell-to-Kings 🇧🇷 4-3 🏴󠁧󠁢󠁥󠁮󠁧󠁿 AnnieIWillKnow
+ 
+ McWaffeleisen 🇩🇪 3½-4 🇷🇸 kaubojdzord
+ 
+ Group B
+ 
+ WM-54-74-90-14 🇩🇪 4-2½ 🇦🇷 SaBe_18
+ 
+ No-not-my-Potatoes 🇩🇪 5-4 🇹🇭 SupSiri
+ 
+ Special shoutout to Potato who is the only person to get a PQ in this Matchday! Someone prepared a form for TCWC, which this time proved unlucky for Siri.
+ 
+ !PING TRIVIA",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Calm, Liverpool will win 4-1, mark these words.. they're all over B'mouth now",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"I fucking hate United fans on this subreddit sometimes. Legit cannot be happy unless they win 5-0.
+ 
+ Always bemoaning and belittling their own players as well, inviting pressure and criticisms.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"We need to put more trust in our Youth Academy, Benfica has been hemorrhaging talent like crazy for a while now (Diego Moreira, Cher Ndour, Iuri Moreira, etc). Worst one this year was Franculino Dju, left Benfica without a single cap for the senior squad and has scored 12 goals in 18 appearances for Midtjylland including a hat-trick in the UECL. I should also note that he is only 19 years old.
+ 
+ What’s the point in having a top 3 academy in the world if you aren’t even going to take advantage of it?",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+Dessers isn't going to AFCON mate. You seen the talent that Nigeria have in forward areas? Shankland is probably worth about £6m to a very skint Hearts (Europe). Arguably £12m swing when you consider the threat of a near peer getting the 3rd place dough. Hearts won't sell for less than £4m and at that price we couldn't and shouldn't be buying. Miovski would go for similar as Aberdeen would be in a similar position to Hearts.,argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"He was unreal last season to be fair, 29 goals for Motherwell is some return. 
+ 
+ I remember watching highlights of his league debut for Motherwell at the start of last season and thinking who the fuck is this guy he looks class. Then looked at his career and thought wait a minute. 
+ 
+ But every time I've seen him since he's looked handy; if it's just a loan as backup then I'm all for it. A big strong guy with a nice touch and an eye for goal; he's basically the guy Dessers wants to be; I'm not sure Dessers could pull something like [this](https://youtu.be/e_4cNbVs-KY?t=481) off. I like [this](https://youtu.be/e_4cNbVs-KY?t=462) goal too. And [here](https://youtu.be/e_4cNbVs-KY?t=426) is one of him taking the ball nicely in a packed box more like he will face playing for us",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"&gt;5-0 win away at City first game, currently 3-0 up against Newcastle…they’re winning the league this year.
+ 
+ That just means that a bunch of them should be out on loan",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Obviously. It naturally always goes up. 
+ 
+ But Ranieri and Mourinho spending the modern equivalent of £1.2bn in 03 and 04 is a significant spike to that rate.
+ 
+ That’s comparable to Peps entire spending at City in 2 seasons.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"He’s useless because he is useless.
+ 
+ Those were not also our “worst games”, honestly a mixed bag. Better with the wingbacks but we had both great and poor results with 4ATB. Lampards second season we were first in the Prem playing 4231 until late October.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"They need another one, even 2-0 isn’t safe in World Cup.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Cracking 1st half, hopefully 2nd half is same and doesnt fizz out and end 2-2.
+ 
+ Chelsea should keep at these infield runs with James and Cucu, City dont have an answer to it.
+ 
+ Also they probably should ignore Jackson and pretend they only have 10 men",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"I think that part is right, you should consider any win from any era as 3 points to make it even, othetwise the teams that used to perform during 2-point era are flawed",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+">Look at Bournemouth getting relegated because of a wrong decision on 1 goal against Villa I think
+ 
+ Yeah no, they got relegated because they were shite.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Jackson seems like a striker that even if he scores 5 goals fans will love him, doesn't stop running, strong, good hold up play",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Let's say we will imagine that in European competitions, CL, EL and CFL.
+ 
+ NL top 3 team play vs Saudi Top3 
+ 
+ Saudi 4 - 7 Vs NL 4-7. 
+ 
+ Then 8 - 11. 
+ 
+ I will bet my house on NL -1.5 or -2 if I felt frisky. 
+ 
+ 
+ I mean, let's just compare them with regional competitions first.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+despite City dominating it's still only 1-0... Newcastle might steal a draw here,argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"If we stick to the 4-4-2 Rodrygo &gt; Vini
+ 
+ Actively harming Vinicius impact with this formation, but it gets the best out of the midfield.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"The huge difference is that sustainability rules wasnt implemented 2012.
+ 
+ This is under the new ffp rules, which means that the ruling isnt a precedent for the city or chelsea case.
+ 
+ 
+ (Unless clearlakes spending makes chelsea breach sustainability rules, which is very unlikly mainly because evertons 300m loss over 3 years was 120m after deduction.
+ 
+ Chelsea who has the more expensive women and yourh setup would probably deduct more yhen twice",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Everybody knows fan awards are not representative.
+ Or do you think Salah deserved Puskas 2018?",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"I always maintain the 2018-2023 Southgate bashers were too young for 2010 or at worst 2016.
+ 
+ Either that or very short memories.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Very much incorrect. 
+ 
+ FYI: Mane had 1 season in his entire career where he scored more than 20 league goals (22 in 18/19).
+ 
+ Salah scored over 20 league goals in one season on 4 separate occasions, one of those occasions being a *32 goal PL season*. 
+ 
+ Mane was fantastic and one of the best in the world at his peak but was clearly a level below Salah",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Messi won in 2010 and Ronaldo won in 2014 despite both having pretty poor World Cup campaigns. If he can just get to the World Cup with Norway and combine that with a superb club season, I feel like that could be enough.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"They’ll get something symbolic of course, like a financial penalty, maybe a transfer ban, maybe they get deducted 5-15 points in a season. 
+ 
+ I can’t imagine they get anything resembling a punishment that fits the magnitude of what they’ve done - i mean the last what, decade or more? of the Premier League’s table should have an asterisk on it, and that’s not to mention their European success. I wish I had your faith in the proper institutions to dole out justice, but I just can’t see it happening in modern english football",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Feels like we are in a very weird time with international football.
+ 
+ Brazil - Germany - Italy are in shambles (Brazil has a bright future tho)
+ 
+ 
+ Argentina will lose Messi but they will still be talented and a threat.
+ 
+ France has been the most consistent team since 2018 and have the best conveyer belt of talent in Europe.
+ 
+ England finally at least on an FA level and talent level have got it right and are a top 3 talented team in the world.
+ 
+ Uruguay has a bright future as does Portugal and Spain.
+ 
+ 
+ Netherlands are fine I guess idk what to think of them.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+Kane would have had like 2-3 goals. Richarlisons positioning is awful,argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"What are some examples of money ruining football that aren't so obvious to us over here in Europe where our biggest gripe is getting more Champions League games and Saudi clubs stealing our geriatrics (reminder to self: use the pun gerihatrrick the next time Ronaldo scores 3 goals)
+ 
+ The other week I saw someone on here post about how in South Africa a team in the lower divisions can buy the right to play in the first division from a top tier club
+ 
+ I was just reading an [article](https://www.reuters.com/article/uk-soccer-brazil-stadiums-idUKKBN12H21F) about that time when Flamengo's stadium was being renovated so instead of playing in another Rio stadium like their local fans would have wanted, they decided to tour the country in order to sell presumably more expensive tickets on the basis that it was a once-in-a-lifetime opportunity to see them playing ""home games"" in Natal for example, which is 2,500km away from Rio
+ 
+ >“The anger is subsiding because we know that we will be back next week but it has been a hard year,” said Fernando Lamego, a Flamengo supporter who has not seen his team all year. “In Rio de Janeiro, the fans are not happy.”
+ 
+ >The Maracana has been out of commission for much of the past 20 years, being refurbished for first the World Club Cup in 2000, then the 2007 Pan American games and finally this year’s Rio Olympics.
+ 
+ >They have played 15 “home” league games, none of them at the Maracana or the Olympic stadium, which is owned by rivals Botafogo.
+ 
+ >Lamego, who has a season ticket and hopes to go to Flamengo versus Corinthians on Sunday, has, like most fans, been forced to watch games on television instead.
+ 
+ >“It’s disgraceful, we should be able to play our big games at home which is the Maracana,” he told Reuters.
+ 
+ But even worse than that, you have this:
+ 
+ >“Even more ridiculous is the situation we had last week when Palmeiras played an away game at home because the other team sold them that right. The league have lost all their credibility.”
+ 
+ What the fuck, Brazil. You're meant to be the home of the beautiful game",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Judging by the 2 games so far, is Mount Bruno Casemiro the worst midfield on the field performance wise?",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Man City fans were by far the most critical over VAR for a good part of a year back in 2019.
+ 
+ Liverpool and Arsenal fans are loudest right now because they are on the end of shite VAR decisions recently *and* because they happen to be two of the biggest clubs in the world. If Wolves were a top club, they’d be the loudest right now.
+ 
+ If you don’t think that there is an universal frustration with VAR across all clubs right now, I don’t know what to tell you. You’re living in a bubble.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"I'm very, very curious about the game against Germany tonight.
+ 
+ We are in a very good form, we performed well in all our last Euro qualifier games, so we are coming to this game fully confident.
+ 
+ But I wonder about the German team. With their abysmal performances those last few months reaching an all-time low this week-end against Japan + the Flick's sacking, I wonder if we could get a surprising match..
+ 
+ I know everyone predicts a massacre like 7-0 for France, but I'm not so sure about it for a few reasons:
+ 
+ - Firstly, it's a friendly so there is less incentive for our players to put on a show;
+ - Secondly, we rarely score a lot of goals in our matches, even against very weak opponents;
+ - Thirdly, Deschamps will probably not play our best starting XI since they already played a few days ago. I would not be surprised to see more of a B team with some A players here and there;
+ - Fourthly, I really wonder if the German players could not rebound tonight against us. They reached an all-time low this week-end after months (years even) of downfall, but it's over with Flick now. They will have the remaining time before the Euro to prepare with a new coach, with new ideas, maybe find back their motivation etc., with the ultimate objective to perform well in front of their public during the Euro.. and tonight could be the turning point, the beginning of the climb back to their previous highs. Who could be better to bounce back and exceed all expectations than the vice-world champion themselves?
+ 
+ I know this is a harebrained theory but, while everyone predicts a slaughter tonight, I would not be THAT surprised if the German players play well with a newfound motivation, and if we have a close and competitive game to watch.
+ 
+ You're free to tell me that I'm insane.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"What other options do we have?
+ 
+ Ward Prowse, who is deeply average and not pulled up any trees for England? Ryan Yates?
+ 
+ People always act like some fucking world beater is being left out, the worst omission is Ollie Watkins doesn’t get to sit on the bench and watch Kane for 180 minutes, Southgate out",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"I live 30 minutes away from the Volksparkstadion and can hear them clearly from my living room with the TV on. I may hate HSV, but I gotta give respect where it's due, their fans bring their A-Game to every single match. 
+ 
+ Reason #352 why even the 2. Bundesliga has more heart than the EPL.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"the famous Legia incidents come to mind. Hools would stop bus coming from lost away match and beat up a few players (more like bully them, but ye physically abuse). I think it happened twice in past 3-4 years?",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Average attendance vs total attendance. There are no soccer leagues that play 80 or 160 games a year
+ 
+ Also there are no soccer leagues with 30+ teams. To make it a fair comparison you should look at average attendance, fans can't attend events that don't exist",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"The Prem has FFP/sustainability rules that you can't make a total loss of more than £105m over 3 seasons
+ 
+ Everton lost about triple that amount a while back
+ 
+ There were some relaxations of the rules during covid cos of massive temporary drops in income. Everton tried to claim the loss was just ""covid""
+ 
+ The League aren't really buying it I don't think, mainly because Everton have tried to claim the ""covid impact"" was absolutely miles more than any other club in the league have claimed for themselves
+ 
+ It is going much faster than the City case because all the evidence needed is official and public information, as opposed to City's underhand tactics to hide their foul play, making it take longer to dig out evidence",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Richarlison is the most overrated footballer and is only rated because he's Brazilian.
+ 
+ He scores a few and he'll be linked with a move to Real Madrid.
+ 
+ Never scored more than 13 goals a season but is seen as hot shit.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Australia vs Taiwan live and legal [on YouTube right now](https://www.youtube.com/live/YjIqO-Wxe-s?si=GD9XEbWd45UQHWfr) (might be geoblocked in some regions.) 
+ 
+ Matchthreadder says it doesn't exist, so it could be a figment of my imagination 🤔 Great crowd. Currently 0-0 fifteen minutes in. The difference in quality is rather depressing.
+ 
+ EDIT: Halftime. Australia completely dominating of course, but thanks to luck, a parked bus, and some truly amazing last-ditch defending, the scoreline is still 0-0.
+ 
+ EDIT: Full time, 3-0 Australia. To be honest, I'm fine with that result. The pessimistic side of me was expecting to be thrashed 8-0 like the Philippines were two days ago. They outclassed us by miles, but we defended incredibly well and and our goalkeeper had a superhuman performance. I'm very proud of that.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Will always remember him coming on against Japan, telling my friends he'd a header for the 2-2, and he did.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+United fans are living in a hell cycle since 2013. They think their back after a jammy season but then reality hits,argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"I don’t think Everton will be relegated this year.
+ 
+ They lost 1-0 to a newly promoted team, then got battered by us on the rebound from a really bad loss.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+ye not like he has lost 1 game this season and won the league last season while having the best defensive record in La Liga history. But lets let 1 situation in 1 change that.,argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Naturally there's a slight risk of saying this backfiring on me, but still having to bring on Anthony Martial when they need goals in 2023 has to be a terrifying prospect for Man Utd fans.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"And this is post-peak Kane as well. 15-18 gunman Kane who was more mobile, aggressive, and had a half step better pace would be doing even better in this team imo.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+10 minutes left at home and the team that‘s pushing is Köln. Embarassing tbh,argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Ronaldo’s first years at United are so underrated. I genuinely think narratives have gotten out of control when looking back at those times.
+ 
+ He was likely the best winger in the league by 04/05 season. He would have frustrating games at times but his ability to create danger out of nowhere was impressive. 
+ 
+ An example that I feel illustrates my point is how much praise Ashley Cole and Gary Neville got for simply not letting CR7 dominate them like he did other teams in Euro 2004: https://amp.theguardian.com/football/2004/jun/25/euro2004.sport16
+ 
+ Here is another article putting the hopes of Portugal onto him before the final vs Greece: https://amp.theguardian.com/football/2004/jun/25/euro2004.sport16
+ 
+ I think that he was better than Rooney at the time but since Rooney was English, he got more support. This wasn’t a controversial opinion to have then.
+ 
+ I was scrolling here and saw young Ronaldo get compared to Antony at some point. For me this is when the disrespect got too far.",argument,"Contains a subjective claim supported by verifiable statistics or facts, following Claim + Evidence structure.",0.88
+"Manchester United are two points behind you despite worse injuries, how is that doing horribly?
+ 
+ Arsenal and Villa having 8 injuries put together is a very disingenius argument as Villaâ€™s injury crisis is ending while for Arsenal Jesus is only just back after a long layoff, and they have had their POTS playing injured the entire season as well as White playing injured for a few weeks. Thatâ€™s Partey, Jesus, Timber, Ã˜degaard, Zinchenko, White from the preferred lineup injured, as well as Vieira and ESR who were both (especially Vieira) battling for Havertzâ€™ spot in the starting lineup",argument,"Claims Arsenal's injury crisis is more severe than framed, cites specific players (Partey, Jesus, Timber, Ã˜degaard, Zinchenko, White) as evidence, concludes Man United's position is not 'doing horribly.' Argument.",0.85
+"Betting on illegal/unlicensed sites, many of which are in the hands of criminal organizations who use them to launder money, is a crime in Italy. Just stop justifying this bullshit already. Fagioli testified he received several threats from the managers of said platforms. Do you have any idea what criminal organization means in a country like Italy? 
+ 
+ Secondly, the fact that â€œfootballâ€ goes out of its way to promote gambling (which really means the PL, as theyâ€™re the main culprits here and their agreements with betting companies is the main reason why they have such lucrative tv deals) has no relevance in this case. The facts occurred in italy, under Italian jurisdiction, the players broke the Italian law and the FIGC guidelines- both of which are crystal clear.",argument,"Claims betting on illegal sites is a crime in Italy, cites FIGC guidelines and Fagioli's testimony as evidence, concludes the PL's gambling promotion is irrelevant to this case. Argument.",0.85
+"> It's an objective truth that in Argentina the population of European migrants and their descendants is way bigger than the rest of South America, he just tried to make an argument in an idiotic way.
+ 
+ It's actually not an objective truth, it's a made-up story that Argentinians created to bury your native ancestry, in a continued genocide:
+ 
+ > Brazil:
+ 
+ > * A 2015 autosomal genetic study, which also analysed data of 25 studies of 38 different Brazilian populations concluded that: **European ancestry accounts for 62% of the heritage of the population**, followed by the African (21%) and the Native American (17%). The European contribution is highest in Southern Brazil (77%), the African highest in Northeast Brazil (27%) and the Native American is the highest in Northern Brazil (32%).[79]
+ 
+ > Argentina:
+ 
+ > * Large comprehensive studies across Argentina's many regions in order to characterize the genetic admixture have been lacking. Small sample size studies give the following composition.
+ 
+ > * Homburguer et al., 2015, PLOS One Genetics: **67% European**, 28% Amerindian, 4% African and 1.4% Asian.[29]
+ 
+ > * Oliveira, 2008, on Universidade de BrasÃ­lia: **60% European**, 31% Amerindian and 9% African.[31]
+ 
+ > * National Geographic: **52% European**, 27% Amerindian ancestry, 9% African and 9% others.[32]
+ 
+ > * Corach, Daniel (2010): **78.5% European**, 17.3% Amerindian, and 4.2% Black African ancestry.[33]
+ 
+ > * Parolin et al., (2019): PLOS One Genetics: **62.1% European**, 35.8% Native American and 2.1% African.[34]
+ 
+ So yeah, essentially Brazil and Argentina have similar levels of European ancestry, but Argentina has a bigger native element and Brazil is more evenly split between native and African ancestry. And abuses against the native population of Argentina are a recurrent thing in your country, that perfectly mirrors the treatment of minorities in the US and Europe, with the added spice of trying to pretend the native population and the native heritage of most Argentinians simply isn't there.",argument,"This comment has a clear claim + evidence + conclusion structure, Argument.",0.83
+"Catalysts in market shifts can be good or bad. This one was one of the bad ones. 
+ 
+ If City went and spent Â£2bn in one window pre FFP youâ€™re telling me you wouldnâ€™t be complaining because the market was heading that way naturally in 30 years time anyway? 
+ 
+ Of course you would be complaining, because all of a sudden youâ€™re having to spend Â£90m on players like Mudryk.",argument,"Makes a claim that the Neymar transfer was a bad market catalyst, uses the hypothetical City Â£2bn scenario as evidence, concludes fees like Â£90m for Mudryk resulted. Argument.",0.75
+"Sleep is pretty damn helpful and alcohol is basically linked to every bad thing that can happen on one's body.
+ 
+ It's not crazy to imagine that drinking and going out late would increase the odds of stress fractures.",argument,"Makes claim (sleep helps, alcohol is harmful), provides implied evidence (general health knowledge framed as fact), concludes drinking increases stress fracture odds. Argument.",0.75
+"Yeah meanwhile Tch was covering the space like Maldini right? At least Kroos even got close to defend meanwhile Tch was nowhere near looking sideways and jogging
+ 
+ Kroos is no defensive player but what he offers in team is more valuable than Tchouameni who is only tacking merchant instead of being able to read game and defending/positioning awareness is horrible",argument,"Claims Tchouameni's positioning is worse than Kroos's, uses specific game observations as evidence, concludes Kroos offers more value. Argument.",0.75
+"Brentford really struggle against low blocks without Toney
+ 
+ They haven't missed him in the big games, but you can really see it against the likes of Luton",argument,"Claims Brentford struggle against low blocks without Toney, distinguishes between big games and games like vs Luton, uses observable pattern as evidence. Argument.",0.75
+That was a pen. You can say we didnâ€™t have one against us last week but would you rather have two bad decisions or one,argument,"Makes claim it was a penalty, references prior bad decision as evidence, concludes with a rhetorical choice. Argument.",0.7
+"I mean nobody would be pissed off if youâ€™d done it during the window. Doing it 48 hours before was never going to work.
+ 
+ Itâ€™s the same story as before, if we can find a replacement, we will sell him. If not we wonâ€™t. Iâ€™m inclined to think summer is more likely.",hot_take,"States an opinion with no followup on evidence, ""nobody would be pissed off if youâ€™d done it during the window."" Hot Take.",0.85
+River has no will to sell after losing Beltran. They will ask for around 15M dollars.,hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+Lunin's doing alright. Some people need to stop hyper-focusing on him when our main problem is the defense.,hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Like others said was for snow, but did make for some incredible pictures.
+ 
+ https://www.reddit.com/r/soccer/s/Nq4YsKuMdw",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+But the Fiorentina players are always on the ground. Juventus players are angels that never fouls /s,hot_take,"Claims all Juventus players are angels who never foul with no followup on evidence, Hot Take.",0.85
+"This is what Busquets does best, sell it on the ground",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Will miss him, he clearly wanted to go to Valencia and nowhere else. Main issue was the money but obviously that's been sorted.
+ 
+ He'll be good as well - he's always been one to gee the crowd up, so when he wants to be there he'll be on one. Always got a silly red in him though for the same reason.",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"If we started booking players for being annoying, Antony would never make it through a match again.",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"&gt; The European players weren't all equally as good but they were of a similar level and the best ones were just as good, or slightly better or slightly not as good.
+ 
+ I think you are mistaking ""European players"" with what at the time were ""domestic"" players? Maybe I explained it poorly. If you take ""European players"" as a whole, sure, there was good Europeans and good South Americans and good Africans. But that was not the case. You have to compare Spanish players vs Euro+SA+Africans, English vs Euro+SA+Africans, etc.
+ 
+ Simplifying (cause there were small exceptions) if you played for Real Madrid, you had to be Spanish to be considered domestic. If you were Italian, German, Brazilian or Chinese you counted as a foreigner.
+ 
+ Real Madrid was limited to the Spanish talent pool. If they had a good generation maybe they could buy some good players, but if they didn't then you had to do with what you had. And this happened on every team. 
+ 
+ So even if Real Madrid _all_ the best Spanish players, it's likely that they still wouldn't have the quality of the top players from over the world. Think the best players in the world today, where are they from? Same country? No.
+ 
+ That means that the foreigners you bought, were going to be the 3 best players possible to maximize the spots you had. That meant that you would get players that had a better level than the ones from your team if you can. And unless the Spanish generation had the best players in the world, it did mean that the foreigners were better.
+ 
+ And that's Real Madrid. Now imagine second tier teams. Real Madrid and Barca bought _all_ the best Spanish players. The quality from the second tiers is gonna be worse. But since only 6 foreigners could be bought by RM and Barca, they had the chance to get really good quality players that were significantly better than their squad. The local talent pool has one size, meanwhile the worldwide one is bigger, so it's 100% going to be better, unless you have a golden generation.
+ 
+ So, overall, unless it was a particularly good domestic generation, most teams had foreigners (which include Europeans as well as non Europeans) that were likely to be the best players on their teams, because it simply made sense to do things that way.
+ 
+ &gt; It's not the same like Benzema going to the Saudi league where the majority aren't just not as good as him they're division 2 or division 3 players
+ 
+ I didn't say the gap isn't bigger in Saudi. I don't follow the league so I don't know, but yeah, I assume Benzema is better than them significantly. 
+ 
+ But I replied to someone saying the players were just as a good and that wasn't true. There was a gap in talent from foreigners to local, that was very very obvious at the time.",hot_take,"Though the person seems to try to make a cohesive argument, there is a lack of concrete evidence. So, this will be a Hot Take.",0.85
+Awful final pass from lemina. That should have been out on a plate,hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Jordi Alba has literally never taken a penalty before, still dumb because heâ€™s probably still the #3 best penalty taker on the team but itâ€™s understandable an MLS coach wouldnâ€™t have faith in him",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"> Some of the women are actually very skilled with the ball, but the games look like you're watching at at 0.5x speed.
+ 
+ I am extremely interested to see where the high watermark will be for the women's game. Considering how much further ahead in development the men's game is, that we're still seeing these sorts of developments in proficiency after a hundred years. The women's game continues to narrow and is considerably better than it was just over a decade ago.",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Destructo Play for best comment, plastic snip snip DD for best thread. Also going to nominate the Icardi copypasta",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+I feel like Chelsea is just â‚¬1 billion away from assembling a decent team,hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Old Trafford isn't even in Manchester, Salford City ground share it will have to be.",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+Spurs with a striker would be good. Shouldâ€™ve been in for that Kane fella,hot_take,"Context: Kane seems to have left Tottenham so they did not have a ""good"" striker. Since the user ended his comment with an opinion with no backing of evidence or logic, Hot Take.",0.85
+Messi loving mls is funny to me . The best player itw is in MLS and is absolutelty loving it.,hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Might I ask why Hertha? Just curious not being rude. Iâ€™m from Northern Ireland, support Chelsea Because of my dad (whoâ€™s been supporting them when they played in 2nd tier) and Dortmund (who Iâ€™ve been following for maybe about 10 years but more so the past 5/6 ish years)
+ 
+ My dad kinda likes Hamburg though because of Kevin Keegans time there and because of their connection to Rangers. I kinda follow how Hamburgs getting on in second tier to chat with him about and have a laugh",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"God, do those writers realize how ridiculous they sound? I swear they think they are the center of the universe",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"If we are going to be realistic about Chelsea, this is really who we are. Itâ€™s been funny reading the optimism in the Chelsea sub, but the supporters in there mostly started following in the last few years and are as young as this squad. (Part of the reason they put stock into what happens in a friendly)
+ 
+ The transfer policy of buying players based of half of one good season is so silly too me, itâ€™s basically buying players at the very peak of their value who havenâ€™t actually done anything yet.
+ 
+ That all said, still reasons to be optimistic Long term. These players should improve, at the very least some of them, the chemistry should also improve. 
+ 
+ But when your central defender has as many top flight games as essentially the rest of the squad combined, this is the likely outcome.",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"That's why he's my goat - never dives, always trying to get up or fight through the last ditch foul",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"I think youâ€™re actually far more agitated than this than I ever was to begin with tbh. I was making a somewhat flippant comment in passing, and here you are 10 comments and several hours later arguing about how weird it is. 
+ 
+ It is pretty benign thing for you to feel the need to tell others to â€œcause grassâ€ over - you probably didnâ€™t need to spend this much energy on it.",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+Hojlund is so out of form. His runs have been terrible and his positioning is shockingly bad,hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+Man i had some hope city will drop off after a treble season and kdb injury but seeing foden play as the main man destroyes all hopes,hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+I donâ€™t sympathise with it because we have 10+ games compared to Europe and our clubs can manage injuries just fine (maybe even better tbh). We just use our academies a lot more than european clubs.,hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Guys like Murtough are paid millions of pounds a year to build a football squad in a multi-billion dollar football club. And yet he seems to not understand what a midfield is. Neither did Woodward. 10 years without a proper midfield. Seriously, how do you expect to have a proper midfield with players that don't know how to play in midfield? Bruno can't retain possession or dribble himself out of a press (great chance creator though), Eriksen can't run, Mount doesn't know what to do in central midfield, and Mctominay is an anti-footballer. Only Casemiro seems to know what his job is.
+ 
+  
+ How can you have any aspirations when this is your set up? Not using this summer to drastically upgrade our midfield will be a massive mistake. As always one thing I can count on United is to be consistently incompetent.
+ 
+ I don't expect anything from this club until its sold to different owners.",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Fair, as long as we agree that something like that is arguably lower on the list and less rewarding than..
+ 
+ 1) spending a bunch on money on new player
+ 
+ 2) using Saudi companyâ€™s nearly exclusively for sponsorships
+ 
+ 3) holding multiple â€œwarm weather trading campsâ€ in Saudi Arabia
+ 
+ 4) throwing stacks of cash at famous football players to come play in their domestic league
+ 
+ 5) â€œsurprisinglyâ€ gaining the World Cup in a bid 3 years earlier than planned and with NO COMPETETION
+ 
+ You are correct that what you described is possible but undoubtly less likely and less impactful than all the above",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+Ooooh that's a hard one... it's similar tho they sound totally different. Apple TV for MLS has the best song tho,hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"I just lumped them together because itâ€™s quite early to distinguish between them, and Chelsea seem to be chomping and changing with who they play. 
+ 
+ Plus while I feel Chelsea do have the better wingers, I think spurs being better managed has helped them.",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Heâ€™s not firing on all cylinders but he filled his role well I think, some nice link ups and Maddison missed him on a couple runs",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+I reckon they are testing the waters on how my much they can get away with until everyone goes crazy and they back off. Then in the future they get payments under the table for bigger games and bets.,hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Anyone saying its not a red doesn't understand the point of the rule. 
+ 
+ From IFAB: 
+ *In addition, a player who, when not challenging for the ball, deliberately strikes an opponent or any other person on the head or face with the hand or arm, is guilty of violent conduct unless the force used was negligible.*
+ 
+ This is clearly to police the game and make it so there is no unecessary instances of players touching other players faces. I interpret that last part as essentially saying that unless the contact is incidental and or literally just brushing the face, any deliberate contact to the face is a red. IMO this makes sense purely to incentivize players to avoid any violent escalation.
+ 
+ And clearly this is not negligable as Meslier palms his entire fucking face.",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Youre a clown to even ask this. Defended against far better strikers for one, in a much more competitive league, and came out on top nearly always. You can not have watched him to even ask this shit. Stop now.",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"You've just never been actually in love, mate. It's alright",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+Bronze &amp; Toone have still been awful this half. Both absolutely scuffed two chances in the last 90 seconds,hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Considering how we managed to struggle against San Marino and how important the goal was, and how he hammered it in from a ridiculous angle, I'd say that it did.",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"I always found this weird as fuck with other ""historically big teams"" just giving up the third place game. To me that just shows how weak you are mentally and I always expect Sweden to give their all. If you lose in the semi then you take revenge in the bronze match, not sulk about not making it.",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Moved her hand towards the ball, donâ€™t think you can argue there",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+I think the new board doesn't have any problem with him.,hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Manchester United's wingers are the worst mix of predictable movement and unpredictable control.
+ 
+ Their movement and actions are completely predictable for defenders to read and their passing and first touches are completely unpredictable which means they keep giving the ball away.",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+We easily could and should have gone into halftime up a goal or two but that second half was awful,hot_take,"Makes a statement based on observation that the team could have scored a goal or two in the halftime without a sufficient argument with evidence, Hot Take.",0.85
+They will pass a rule immediately if there is even a hint of this kind of thing happening. Or even just a straight up temp ban on loans from the Saudi league in general.,hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Mukhtar and Zimmerman are some of the best in MLS in their positions and Sam Surridge just joined from Nottingham Forest are the guys that could make a difference for Nashville if you're curious who to notice for this match. Youâ€™ll probably also notice MLS fans are all very fond of Dax McCarty cause heâ€™s kinda probably best compared to being like MLS James Milner (or really any other high effort long tenured midfielder, but also on top of that a very fun guy).",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+Chelsea will spend another half billion in January and still finish lower than United.,hot_take,"Makes an statement on what Chelsea will do without evidence or logic, Hot Take.",0.85
+"He's played one competitive game in midfield, against a team who fought relegation last year, in which he was alright
+ 
+ He's not ""been"" anything, yet. Certainly not been anything which would suggest that Arteta is a tactical genius who has unlocked him",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"imo, it was a dive but it was also a very stupid tackle so it could go either way. The real problem is that they didn't even call the ref to take a second look at it",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Yeah, but we've had quite a few fantastic sales this season, and some senior players left or were sold so we freed up a lot of wages as well. No Tadic, Timber, Alvarez and soon Kudus will help a lot.",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+Most efficient fucking player ever. Itâ€™s not even close either which is the scary thing. Kind of sad he never made it back to Barca,hot_take,"Makes a bold statement on a player being the ""most efficient,"" without any evidence or logic, Hot Take.",0.85
+"They won it in spit of Luis Henrique, MSN is the greatest attacking force any team has ever had and it's not like the rest of the team was trash, there was a world class player in most positions.",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+This should be put on replay alongside Lisandroâ€™s vs Real Sociedad last season any time thereâ€™s cry of Utd bias.,hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+I think heâ€™s proven himself but the toxicity and rebuilding of our club is something he def doesnâ€™t need in life. Heâ€™s got nothing to prove at this point but to keep him and his family happy.,hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Weâ€™ve been outclassed here, need more tactical players in midfield imo",hot_take,"Person explicitly says ""imo"" (in my opinion) plus a speculative reaction after losing a game. Because it ended with a claim without explicit evidence or logic, Hot Take.",0.85
+Cunt should be sent off for falling over like that. Fucking pussyâ€™ole.,hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+Iâ€™m a chelsea fan but also have Brighton family and go to a few Brighton games a year and watch them on tv a lot. Bissouma was such good value for you guys I assumed he must have something else wrong with him,hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+We just want consistency. Anfield will always give the benefit of the doubt. A story as old as time.,hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Yeah give him time... whatever tf it was.
+ 
+ 
+ 
+ Ten Hag needs a serious look at himself. This is half a billion spent you cannot expect to do so badly with that much investment, and not get the sack tbh. At this rate the bald fraud prolly wont even last till December...",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Both havertz and mount were sold because they are mediocre at best. United fans have found out quickly, arsenal fans will find out soon enough.",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"not really a pen imo, but Iâ€™ll take it
+ 
+ great game btw",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+Most of us were pretty hyped for him to come I think,hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"Sneijder is once again mentioned as being a part of a potential take over of a Dutch second division club, supposedly heâ€™d become the technical boss. I donâ€™t get how anyone can look at Sneijder or listen to him and think: this should be the guy to make football decisions. Heâ€™s a truly terrible and simplistic pundit.",hot_take,States an opinion or assertion as fact without providing supporting evidence or statistics.,0.85
+"If you go down injured, you shouldn't be allowed on the pitch for 2 minutes. Stop the time wasting",hot_take,"Claims an injured person shouldn't be allowed on the pitch for two minutes without a coherent argument back with evidence, Hot Take.",0.83
+Mason Mount is not that guy. Such a bang average footballer hyped up by Chelsea fans because he was one of their own,hot_take,"Opinion stated as fact, 'Mason Mount is not that guy... bang average footballer', no stats. Hot Take.",0.8
+Looooooool Mudryk is actually completely wank. An absolute pace merchant and nothing more.,hot_take,"Harsh opinion stated as fact, 'Mudryk is an absolute pace merchant and nothing more', no stats. Hot Take.",0.8
+"Nothing for it la, going to have to just send him back up the road. He's a failure. Get rid. We'll carry that burden for you, don't worry.",hot_take,Opinion stated with emotional language ('He's a failure') with no evidence. Hot Take.,0.8
+Another meme season for Chelsea incoming if they keep up these type of performances.,hot_take,Asserts Chelsea will have a 'meme season' as fact with no supporting evidence. Hot Take.,0.75
+Antony does fuck all still. Pellistri did more when he came on,hot_take,Unsubstantiated opinion comparing Antony and Pellistri with no stats or evidence. Hot Take.,0.75
+"I expect everyone to score at Barca at the moment , and they already had a couple of sniffs early on as well.",hot_take,"Opinion stated as fact. 'I expect everyone to score at Barca,' with no supporting reasoning. Hot Take.",0.75
+"And a media complicit in all of it, because all it cares about is serving the powerful. It makes me wonder what every day Brits thought of the Empire as it was in full swing conquering Africa and such.",hot_take,Opinionated assertion about media bias and its motivations with no supporting evidence. Hot Take.,0.75
+"Is Mount still on this pitch, he's been completely invisible",hot_take,"Opinion asserted as fact. 'Mount has been completely invisible,' with no statistical backing. Hot Take.",0.75
+"Campana knew he wasn't allowed to score there, it was Messi or no one, was hoping Messi would appear for the tap in",hot_take,Asserts Messi was the only one allowed to score. Stated as fact without evidence. Hot Take.,0.75
+Isnâ€™t 20m for Mavropanos better than 40m for Maguire? Hope he does good for them,hot_take,Opinion comparing Mavropanos value to Maguire stated without any supporting data. Hot Take.,0.75
+"Bizarre comment, Ream carried our defence last season
+ 
+ Edit: and shouldn't have been sent off for that farce of a penalty",hot_take,Claims Ream 'carried the defence' and the red was a 'farce' without supporting stats. Hot Take.,0.75
+Impressive to play a back 3 and have all 3 CBs be at fault for a goal.,hot_take,"Opinion stated as fact, 'impressive,' but no stats to verify all 3 CBs were at fault. Hot Take.",0.75
+"People sometimes mention him as an option for us, thereâ€™s a good chance weâ€™ll go for a foreign manager in the summer. I have my doubts about it but I donâ€™t know enough about his Brighton to have a strong opinion. It would also depend on what kind of wages he expects, we donâ€™t pay that much.",hot_take,Speculative opinion about a foreign manager decision with no supporting evidence. Hot Take.,0.75
+Explains why Trumps gets along so well with the Saudis,hot_take,Asserts Trump's relationship with Saudis as fact without evidence or analysis. Hot Take.,0.75
+After the idea of the ESL was put into life I expected the Germans to go out protesting and I really do respect them for their love towards the tradition of this sport. But seing English fans doing it after not losing a single sweat about states buying club after club just looked incredibly ridiculous.,hot_take,Makes opinion claim about English fans' hypocrisy without citing specific evidence. Hot Take.,0.75
+"Even if Bayern go trophyless this season, the chance of them not winning a single Bundesliga title over the 4 years of Kane's contract is basically zero.",hot_take,Speculative claim about Bayern's Bundesliga probability under Kane stated as near-fact without stats. Hot Take.,0.75
+"100 million mose is actually playing bad, rare accomplishment coming in for 15 mins 11v10",hot_take,Opinion that Moses is underperforming stated as fact without stats. Hot Take.,0.75
+It's impressive how Liverpool win every aerial duel. I'm gonna be really surprised if they don't score from a corner today.,hot_take,"Claims Liverpool 'win every aerial duel,' hyperbolic opinion with no stats. Hot Take.",0.75
+"You, as a grown man, have a limit, at which you start behaving like a belligerent child towards your obligations to someone that pays you millions in salary? Really?",hot_take,Opinion on player behavior and professional obligations stated without evidence. Hot Take.,0.75
+This Bissouma - Maddison - Sarr midfield is so good. Imagine if they have Bentancur as well,hot_take,Opinion that the Bissouma-Maddison-Sarr midfield is 'so good' with no supporting stats. Hot Take.,0.75
+He's has more Pep tho. Takes time to extract flair like that.,hot_take,Speculative opinion that a player 'has more Pep' with no evidence. Hot Take.,0.75
+"My top 6 favorite for ucl after watching most games
+ 
+ 1 man city
+ -
+ -
+ -
+ 2 real Madrid
+ 3 bayern
+ 4 inter
+ 5 Atletico 
+ 6 arsenal 
+ â€”â€”â€”â€”â€”â€”â€”
+ I dont want to rate all others because they are all close: Barca psg milan dortmund Newcastle napoli",hot_take,Personal ranking of UCL teams stated as opinion-fact with no evidence. Hot Take.,0.75
+Maybe Harry Kane was the problem all along. (He wasnâ€™t),hot_take,"Self-contradicting joke ('He wasn't'), opinion framed as a hot take with no evidence. Hot Take.",0.75
+Spain were the better side for sure but some very questionable refereeing.,hot_take,"Opinion that Spain were better and refs were questionable, no supporting stats. Hot Take.",0.75
+Excited to see how Sarina changes this. Her in-game management is generally excellent.,hot_take,Claims Sarina's in-game management is 'generally excellent' without evidence. Hot Take.,0.75
+Gonna be completely honest. For the â€˜highest levelâ€™ of a competitive game this is poor.,hot_take,"Opinion stated bluntly, 'this is poor', with no supporting evidence. Hot Take.",0.75
+"Zlatan and Shearer on par with Suarez, Bati-gol, Henry and van Basten ahead.",hot_take,Personal player ranking stated as opinion with no stats. Hot Take.,0.75
+England's fouling is just not smart at all - just really dumb fouling at bad times,hot_take,Opinion that England's fouling is 'dumb' stated as fact without tactical evidence. Hot Take.,0.75
+"The problem with the flat back 4 is that we are worse in midfield because Haaland doesn't contribute to build up well.
+ 
+ The flat 4 worked best for during our false nine days (and with aguero who is great on the ball) but with Haaland we lose that one extra player in the buildup. Hence, pushing up a defender.",hot_take,"Opinion that the flat back 4 worsens the midfield due to Haaland's style, stated without stats. Hot Take.",0.75
+This gameâ€™s gonna have like another halfâ€™s worth of stoppage time,hot_take,"Prediction with no evidence, 'gonna have another half's worth of stoppage time.' Hot Take.",0.7
+"Ja idd, hij speelt prima. Nu deze killer mentaliteit vast houden",hot_take,Opinion that a player is playing well ('speelt prima') with no supporting stats. Hot Take.,0.7
+"Well this isnâ€™t gonna be slow and boring, thatâ€™s for sure",hot_take,Prediction ('won't be slow and boring') stated without evidence. Hot Take.,0.7
+No. The waitress can demand higher wages if she wants more money.,hot_take,Stated opinion on labor economics with no evidence. Hot Take.,0.7
+Maybe the Toone-Russo chemistry has been thrown off now the latter's gone to Arsenal.,hot_take,Speculative opinion about Toone-Russo chemistry with no evidence. Hot Take.,0.7
+too difficult to predict. one thing i've been saying for a few months now is an easy one would be to take restrictions off u22 initiative slots. i.e. teams can have three senior DPs and also three u22 slots (rather than needing to have one of those DP spots be a young DP or someone under max-TAM),hot_take,Opinion on MLS/U22 roster rules stated without supporting data. Hot Take.,0.7
+"Spain have beautiful build up play, but England look far more dangerous when they get in and around the box",hot_take,"Though it starts with an analysis on one team's style of play, it makes a comparison of another team without any further elaboration. Hot Take.",0.6
+"Muani has tons of assists, is way younger and has 4 years of contract left.",hot_take,"This person makes the claim about a player who has ""tons of assists, is way younger,"" which leans towards on the opinion side. Hot Take.",0.6
+Fuck paqueta isnâ€™t making a good case for himself with the investigations going on lmao,hot_take,"User thinks ""isnâ€™t making a good case for himself with the investigations going on lmao"" without any sufficient backing for why, Hot Take.",0.6
+"Yes, we find you ridiculous for criticizing something your continent has been doing for 40 years.",hot_take,"Makes an assumption on an audience for finding someone ""ridiculous for criticizing something your continent has been doing for 40 years,"" without any further backing, Hot Take.",0.6
+I don't understand you're reasoning as to why? Like every team can do it. Changing this rule damages the game more than it does improve it and all for teams to have less chemistry? This is a result of having a good academy which is something Barca invested in and worked hard for.,hot_take,"Makes a claim (inference) that every team can do something and gives an example. It borderlines an argument and a hot take, but because this ""argument"" isn't cohesive enough, it's a Hot Take.",0.6
+"Lol you dont really know much about marketing right? Even if he is not getting money from you the fact thats you are desperately commenting all over this thread means you are telling reddit that this is a post that offers a lot of interaction and pushes it onto other people. In fact this is how I found it. I wasnt even on r/soccer I was just scrolling down my home page and found it, which means its working. Slowly but surely by seeing more content of the saudi league itll get normalized. All these things help people watch a game or two and once they see its not as absurd has they thought some will stay
+ 
+ It doesnt matter if it makes the league look absurd. Bad publicity is still publicity, why do you think so many celebrities have fake controversies?",reaction,Pure emotional expression with no factual claim or supporting evidence.,0.92
+Lmao chill. I wonder if u consider Messi a sportwashing bastard too,reaction,Pure emotional expression with no factual claim or supporting evidence.,0.92
+I can't quite think of an appropriate animal to compare Richarlison to after he took flight there....,reaction,Pure emotional expression with no factual claim or supporting evidence.,0.92
+hilarious finish but what a lovely team move by Spurs. Ange is cooking ðŸ‘¨â€ðŸ³ðŸ”¥,reaction,"Emotionally charged short comment with emojis or exclamations, no substantive claim.",0.87
+"After a rather tough week, watching United lose makes me so happy",reaction,"Expresses personal happiness at watching United lose, pure emotional reaction. Reaction.",0.85
+Football really is so shit now. Every single game I watch now is just decided by some bullshit VAR decision,reaction,"Pure emotional frustration, 'Football is so shit now', with no factual evidence. Reaction.",0.85
+Yeah bro. Everyone should be judged on what Ranieri did that one season. Just like everyone should be judged on how Mourinho won Champions with Porto. Shit take tbh,reaction,Makes a sarcastic remark on judging a persons performance in one season. Reaction.,0.85
+Jesus how long does this ref need to watch one replay tf lmao,reaction,Surprised by how long the ref takes to watch a replay. Reaction,0.85
+"Darwinâ€™s got a lil goatee, who tf sats biatch in 2023",reaction,"Incoherent English with sarcasm, Reaction",0.83
+"Still plenty of time to vote in the group stages of the Darren 'Baby Boy' Byfield Is The Most 2003 Footballer Ever Award For 2023 - https://twitter.com/JoeStephenson96/status/1739949180129529872
+ 
+ ðŸ«¡
+ 
+ A worrying number of Spurs entries to be honest",reaction,"An emotional reaction to a number of ""Spurs entries,"" Reaction.",0.83
+"Sometimes I wish social media was around back then just to see peopleâ€™s reactionâ€™s for some of the shit he used to pull of pre-2006, like [this](https://youtu.be/2TFv4DQMjFk?si=CBfJgQvTO7q5my7E&t=45)",reaction,"Makes a statement of desire for social media to have existed in a earlier year, Reaction.",0.83
+It's insane how bad we are as a team. I,reaction,Purely emotional. 'It's insane how bad we are' with no analysis or evidence. Reaction.,0.8
+"good lord, give me a second to find the stream before scoring another",reaction,"Humorous emotional plea about a stream, no factual content. Reaction.",0.8
+i donâ€™t care man spell his name correctly you uncultured moron,reaction,"Emotional frustration directed at someone, no factual content. Reaction.",0.8
+"Hahah Openda. I damn near had a heart attack, I canâ€™t imagine how he is feeling",reaction,"Expresses emotional reaction to a near-miss, 'I can't imagine how he is feeling.' Reaction.",0.8
+"And that was universally lauded as the correct decision, I assume?",reaction,Rhetorical or genuine question with no underlying factual claim.,0.78
+Sounds pretty cunty from OP but is this not exactly what Klopp is asking for?,reaction,Rhetorical or genuine question with no underlying factual claim.,0.78
+"At least people can shut up about there being some ref conspiracy that favours United, right? Right?",reaction,Rhetorical or genuine question with no underlying factual claim.,0.78
+Are you saying that clubs and gamblers have this one key characteristic in common?,reaction,Rhetorical or genuine question with no underlying factual claim.,0.78
+"Ruiz has been fantastic, Mukiele has been very good, only Vitinha has been underwhelming. The fuck are you watching?",reaction,Rhetorical or genuine question with no underlying factual claim.,0.78
+"Er sieht ihn nicht mal. Absolut lÃ¤cherlich. Kann man sich dann auch gezielt anschleichen und treten lassen wenn sowas dann Elfmeter gibt, mit VAR auch noch. Albern. In 90+7. Absurd.",reaction,Emotional exclamation in German ('absolutely ridiculous') expressing frustration. Reaction.,0.75
+Yeah Spain's goal was a great one but come the fuck on the shithousery,reaction,Expresses frustration at shithousery without analyzing why. Reaction.,0.75
+"Shocking they would be biased towards their own team, while commentating on their own channel. I know, bad ain't it.",reaction,Sarcastic expression of disbelief; not analyzing anything factually. Reaction.,0.75
+Needs to be appealed and revoked afterwards what an absolutely shocking red card,reaction,"Emotional demand to appeal a red card ('absolutely shocking') with no evidence. Because it was more of the emotional side and less of an assertion, Reaction.",0.75
+Fair play to United and Liverpool making regular payments to the refs,reaction,"Sarcastic joke about United and Liverpool paying refs, not a factual or analytical claim. Reaction.",0.75
+"Them : ""Football is boring""
+ 
+ Wrexham : ""Hold my lager""",reaction,"Humorous quip/meme format, expressing a feeling about Wrexham, not an analysis. Reaction.",0.75
+"Itâ€™s not idiot because itâ€™s the exact basis that VAR didnâ€™t intervene, big man. ðŸ’‹",reaction,"Emotional retort using an emoji, not making a factual claim. Reaction.",0.75
+"Everyone hates England bro, but yeah it's all us and not an England problem. ðŸ–•ðŸ–•",reaction,"Sarcastic emotional deflection with emojis, not analyzing anything. Reaction.",0.75
+"Oh no, now they'll all vote Messi for the League Cup instead of Messi for the World Cup. It's ruined!",reaction,"Sarcastic emotional reaction to Messi winning awards, no factual content. Reaction.",0.75
+He had an inch to work with and he smashed it lol,reaction,"Emotional admiration ('he smashed it lol'), expresses feeling, not analysis. Reaction.",0.75
+"MLS / MSN = L / N
+ If L = League and N = Neymar then we can say a league divided by Neymar cannot stand. Bad news for Saudi",reaction,"Humorous wordplay/joke, expressive, not factual or analytical. Reaction.",0.75
+Christ. Get the bloke throwing the paper planes up front.,reaction,"Humorous suggestion with no factual basis, emotional/comedic expression. Reaction.",0.75
+So true and as someone from outside UK who is not a hater or anything itâ€™s sad to see. Such a good club with great history. I hope you can get back on top.,reaction,"Emotional empathetic comment, 'it's sad to see', expresses feeling rather than analysis. Reaction.",0.75
+Also klar Spiel hÃ¤tte man tot machen sollen lÃ¤ngst aber da kein Elfmeter war kriminell,reaction,"Emotional frustration in German, 'would have been criminal', no factual analysis. Reaction.",0.75
+Average American making everything about themselves... Why does it make any difference if their team gets in lol,reaction,"Emotional frustration at 'average Americans', contains a rhetorical question and no factual analysis. Reaction.",0.75
+"Just arrived in Udine to watch our first game of the season. Iâ€™m quite excited for the game. The opponent isnâ€™t too tough, but a good indicator for things to come. Udine is so peaceful and soulful btw. It feels very homely which makes sense when my motherâ€™s mother is from this beautiful city. ðŸš¬ðŸ—¿",reaction,"Personal diary-style emotional expression of excitement, no factual claim or analysis. Reaction.",0.75
+"Ik geef het kunstgras de schuld. Weet ook wel dat dat het niet (alleen) is, maar wil nog ff in mâ€™n positieve bubbel blijven.",reaction,"Expresses a wish to blame artificial turf while acknowledging it's not fully rational, emotional/humorous. Reaction.",0.75
+*â€œBut could they do it on an oily Tuesday night up norf?â€*,reaction,"Sarcastic quip, rhetorical humor, no factual claim. Reaction.",0.75
+"Gotta change that! There was lot's at the Euros! ;p
+ 
+ ""It's coming home, girls' ðŸŽ¶football's coming homeðŸŽ¶
+ 
+ 
+ I'm actually a guy, but ""lads"" doesn't seem right at all today &amp; I'm far more nervous than I thought I'd be already!",reaction,"Emotional humorous expression with emojis and excited tone, Reaction.",0.75
+Man United fan have a discussion about greenwood without mentioning Partey challenge (*impossible*),reaction,"Humorous observation, mocking a trope, emotional/comedic, not analytical. Reaction.",0.75
+"Seriously, the amount of people shitting on England for no reason is abysmal. When England do it everyone hates them. When people like you say this, it's okay? Get over yourself. Edit: making an edit and saying just the fans doesn't make it better.",reaction,"Emotional frustration, 'amount of people shitting on England is abysmal', reactive, not analytical. Reaction.",0.75
+Good thing he gets picked to play above Foden for England,reaction,"Sarcastic comment implying a player shouldn't have been picked, emotional, not analytical. Reaction.",0.75
+"It was attached to his shoulder, how much more natural can you get?? /s",reaction,"Sarcastic comment with '/s' tag, pure humor/reaction with no factual content. Reaction.",0.75
+"Between that and Infantino's weirdo speech, we sure did a good job at showing the world that football is not led by misogynistic pigs",reaction,"Sarcastic reaction to Infantino's speech, emotional/humorous, no factual claim. Reaction.",0.75
+Jajaja para un poco man.. bajon perder pero PAPELON HISTORICO? esta gente,reaction,"Emotional exclamation mocking someone's dramatic reaction, no analytical content. Reaction.",0.75
+How can he even complain about that being a second yellow lmao,reaction,"Sarcastic rhetorical question, emotional dismissal with no factual basis. Reaction.",0.75
+"So glad we didn't get the automated offside tech, I love watching them deliberate over offsides for a few minutes",reaction,"Sarcastic expression of joy about automated offside, emotional, not analytical. Reaction.",0.75
+In meiner Tipprunde sind 15 Scorer fÃ¼r Boniface als Hottake durchgegangen lol B),reaction,"Humorous comment about a prediction, emotional/casual aside, not factual. Reaction.",0.7
+Ref sees humour in that playing away in Tegucigalpa in a crucial World Cup qualifier.,reaction,"Sarcastic comment, no factual analysis behind it. Reaction.",0.7
+"> According to Opta this is the correct formatting. Perfect.
+ 
+ ;)",reaction,"Humorous sarcastic reaction to a comment, no factual content. Reaction.",0.7
+"In the words of the great English band Muse, ""Time is running out.""",reaction,"Humorous cultural reference, expressing a feeling, not making a claim. Reaction.",0.7
+Whoever photoshoped that thumbnail be sweating the whole second half.,reaction,"Humorous observation, expressive rather than analytical. Reaction.",0.7
+My uncle spoke about me in much the same way but with Marodona,reaction,"Personal nostalgic aside, expressive rather than analytical. Reaction.",0.7
+"Weâ€™ve got this so wrong strategically today, albeit weâ€™ve not been helped by abysmal refereeing",reaction,"Based on context, this person thinks their team had been wrong strategically even though they haven't been helped by abysmal refereeing. We can assume this person is reacting on the teams strategy instead of analyzing why it's ""wrong strategically.""",0.6
+"""I'd take the â‚¬795m""
+ 
+ 
+ ""But that's your whole squad?""
+ 
+ 
+ ""In cash please...""",reaction,"This user seems to be making a joke in quotation marks. It's not convincing or analyzing anything, Reaction.",0.6
+"I haven't read about fans of any other nationality trying to storm the family sections when they travel for games, have you?",reaction,"The person expresses that they haven't ""read about fans of any other nationality trying to storm the family sections when they travel for games,"" much less an opinion or analysis, and a Reaction.",0.6
+"&gt; MLS used to do neutral grounds for finals, but attendance was pretty low.
+ 
+ Last MLS Cup Final at a neutral ground was the 2010 final in Toronto involving Dallas and Colorado. They then set LA Galaxy's home stadium as the ""neutral"" ground for the 2011 final, but LA Galaxy ended up making the final anyway which resulted in a raucous atmosphere. This prompted MLS to put the MLS Cup Final at the team that finished higher in the Supporter's Shield Standings.
+ 
+ I don't remember what the criteria is for US Open Cup finals and now the Leagues Cup final is however.",analysis,"Factual reporting with specific statistics or verifiable events, no persuasive language.",0.9
+80% of possession is better than that. You can't understand,analysis,Neutral or ambiguous comment with no strong signal for other categories.,0.6
+"If big Joe is going off he is actually hurt, nice of the Man City players to give a word to him",analysis,Neutral or ambiguous comment with no strong signal for other categories.,0.6
+"MLS teams aren't incentivised to invest in defensive players, the money all goes to bringing in quality attacking players. Few teams are going to use their salary cap exemptions on defenders.",hot_take,"makes a claimon MLS team not being incentivized to do something without any evidence, hot_take.",0.6
+That was such a loud and cohesive groan when the ball hit the crossbar. Beautiful.,analysis,Neutral or ambiguous comment with no strong signal for other categories.,0.6
